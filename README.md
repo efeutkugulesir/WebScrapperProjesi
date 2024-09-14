@@ -1,0 +1,3 @@
+# WebScrapperProjesi
+
+Bu proje, çeşitli internet sitelerindeki indirimleri takip edip kullanıcıya anlık bildirimler göndererek hem zamandan hem de paradan tasarruf etmelerini sağlamak amacıyla tasarlanmıştır. Yazılımda kullanılan bot, teknolojik eşya, gıda, internet paketi, kıyafet ve kozmetik ürünü gibi farklı alanlardaki indirimleri internet sitelerinde takip eder ve anlık bildirim olarak ilgili ürünün bağlantısıyla beraber kullanıcıya gönderir. Kullanıcı, ürünü satın almak istediğinde bağlantıya tıklayarak ilgili alışveriş sitesine yönlendirilir ve kolayca satın alma işlemini tamamlayabilir. Proje geliştirilirken Python ve MongoDB kullanılmıştır.
